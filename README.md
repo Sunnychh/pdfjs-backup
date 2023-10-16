@@ -6,4 +6,4 @@
 ```
  <iframe src={`pdfjs-2.2.228-dist/web/viewer.html?file=${fileUrl}`} width={800} height={1000} />
 ```
-其中```pdfjs-2.2.228-dist/web/viewer.html```是viewer文件的路径，```${fileUrl}```是pdf的文件路径。
+其中```pdfjs-2.2.228-dist/web/viewer.html```是viewer文件的路径，```${fileUrl}```是pdf的文件路径。宽度和高度可以自行定义。
